@@ -1,0 +1,9 @@
+.git
+**/__pycache__
+*.ipynb
+checkpoints
+checkpoints_v2
+processed
+outputs
+outputs_v2
+samples
